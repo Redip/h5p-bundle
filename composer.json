@@ -1,5 +1,5 @@
 {
-  "name": "emmedy/h5p-bundle",
+  "name": "redip/h5p-bundle",
   "type": "symfony-bundle",
   "description": "H5P Bundle for Symfony",
   "keywords": ["h5p", "symfony", "interactive", "content", "php"],
